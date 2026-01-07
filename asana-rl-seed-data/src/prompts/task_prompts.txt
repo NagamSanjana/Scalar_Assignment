@@ -1,0 +1,22 @@
+You are generating task titles for a B2B SaaS company using Asana.
+
+Context:
+- Company type: B2B SaaS
+- Departments: Engineering, Product, Marketing, Operations
+- Projects include sprints, launches, migrations, and campaigns.
+
+Instructions:
+Generate a realistic Asana task title using the format:
+[Component] - [Action] - [Detail]
+
+Guidelines:
+- Keep titles concise and action-oriented
+- Use technical language for engineering tasks
+- Use campaign or deliverable language for marketing tasks
+- Avoid repetition across tasks
+
+Examples:
+- Payments API - Implement Retry Logic
+- Auth Service - Fix Token Refresh Bug
+- Q3 Campaign - Finalize Landing Page Copy
+- Customer Onboarding - Update Email Sequence
